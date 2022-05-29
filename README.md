@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
-- 👨‍💻 All of my projects are available at My GitHub profile.
+- 👨‍💻 All of my projects are available at **My GitHub profile**
 
 - 📫 How to reach me **nihar001patel@gmail.com**
 
-- ⚡ Fun fact **I usually joke about something I shouldn't.**
+- ⚡ Fun fact **I usually joke about something I shouldn't**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
