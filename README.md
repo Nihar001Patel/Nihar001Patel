@@ -7,6 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/nihar001patel" target="blank"><img src="https://img.shields.io/twitter/follow/nihar001patel?logo=twitter&style=for-the-badge" alt="nihar001patel" /></a> </p>
 
+- 🔭 I’m currently in a Pre final year at **IIIT Vadodara**
+
+- 🌱 I’m currently learning **React JS**
+
+- 👯 I’m looking to collaborate on **Web Projects**
+
+- 👨‍💻 All of my projects are available at [My GitHub profile.](My GitHub profile.)
+
 - 📫 How to reach me **nihar001patel@gmail.com**
 
 - ⚡ Fun fact **I usually joke about something I shouldn't.**
