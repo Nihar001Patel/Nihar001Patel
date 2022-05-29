@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
-- 👨‍💻 All of my projects are available at [My GitHub profile.](My GitHub profile.)
+- 👨‍💻 All of my projects are available at My GitHub profile.
 
 - 📫 How to reach me **nihar001patel@gmail.com**
 
