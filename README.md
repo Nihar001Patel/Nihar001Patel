@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently in a Pre final year at **IIIT Vadodara**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS and Project Management**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
